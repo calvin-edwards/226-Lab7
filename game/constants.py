@@ -1,0 +1,2 @@
+MAX_ROWS = 15
+MAX_COLS = 15
